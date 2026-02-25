@@ -1,6 +1,6 @@
 ;; ============================================================
 ;; P2P sBTC Lending Marketplace
-;; Project: Holdly (Pivot)
+;; Project: Stakvlt (Pivot)
 ;; Language: Clarity (Stacks Blockchain)
 ;; Description: A trustless peer-to-peer lending contract where
 ;;   lenders offer sBTC loans, borrowers lock collateral, and
