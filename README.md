@@ -99,7 +99,9 @@ Clarity smart contracts only work with integers, never decimals. 1 sBTC = 100,00
 
 ---
 
-## Deployment
+## Deployment:
+
+- Although actively working on the contract
 
 **Testnet Contract Address:**
 
@@ -113,7 +115,8 @@ ST3N8PR8ARF68BC45EDK4MWZ3WWDM74CFJAGZBY3K.stakvlt
 https://explorer.hiro.so/txid/ST3N8PR8ARF68BC45EDK4MWZ3WWDM74CFJAGZBY3K.stakvlt?chain=testnet
 ```
 
-**Mainnet:** Planned for Phase 3 following testing and review.
+**Mainnet:**
+`SP3N8PR8ARF68BC45EDK4MWZ3WWDM74CFJB3SS99R.stakvlt`
 
 ---
 
